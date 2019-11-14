@@ -7,6 +7,7 @@ public class Main {
       System.out.println("Hello World");
       System.out.println("Hier steht eine zweite Zeile");
 
+      // Zahlenspiele
       int a=38;
       int b=55;
       System.out.println("a = " + a + " b = " + b);
